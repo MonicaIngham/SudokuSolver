@@ -1,0 +1,7 @@
+﻿  Functions.cpp
+C:\Users\Beldorp\source\repos\SudokuSolver\Functions.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Beldorp\source\repos\SudokuSolver\Functions.cpp(203,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Beldorp\source\repos\SudokuSolver\Functions.cpp(273,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Beldorp\source\repos\SudokuSolver\Functions.cpp(309,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Beldorp\source\repos\SudokuSolver\Functions.cpp(343,21): warning C4018: '<': signed/unsigned mismatch
+  SudokuSolver.vcxproj -> C:\Users\Beldorp\source\repos\SudokuSolver\Debug\SudokuSolver.exe
